@@ -1,0 +1,19 @@
+p {
+    background-color: darksalmon;
+    font-size: 2em;
+}
+div {
+    font-size: 3em;
+}
+.coolclass {
+    font-size: 5em;
+}
+#two {
+    color: blue;
+    font-size: 5em;
+}
+#even {
+    background-color: mediumspringgreen;
+    font-size: 5em;
+    font-weight: bold;
+}
